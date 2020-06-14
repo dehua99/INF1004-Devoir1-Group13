@@ -10,5 +10,6 @@ public class Companie {
 		JohS17T.insert("montreal","qubec",2999,5999,"Abc");
 		JohS17T.insert("montreal","qubec",2999,5999,"Abc");
 		
+		JohS17.display(JohS17);
 	}
 }

@@ -16,6 +16,7 @@ public class Text {
 		TrajetList<String> DehZ020= new TrajetList();
 
 		MauL019.display();
+
 		}
 	
 
